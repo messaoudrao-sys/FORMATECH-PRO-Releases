@@ -1,9 +1,9 @@
 {
   "version": "1.0.1",
-  "releaseDate": "2026-09-22",
+  "releaseDate": "2026-09-25",
   "minRequiredVersion": "1.0.0",
   "downloadUrl": "https://github.com/messaoudrao-sys/FORMATECH-PRO-Releases/releases/download/v1.0.1/update-v1.0.1.zip",
-  "sha256": "d1748c53af783373b84c9a12b1bbf6969411b9511d48fd1bceb39d0045b113a1",
+  "sha256": "860316290cdf76c6d72190b469dff7bbf96a7a4f932b861343de3420666a25db",
   "isCritical": false,
   "changelog": [
     "تفعيل نظام التحديث التلقائي الذكي (Auto-Updater Engine)",
